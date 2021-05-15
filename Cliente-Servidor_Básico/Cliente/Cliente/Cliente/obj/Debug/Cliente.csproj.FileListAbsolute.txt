@@ -1,0 +1,13 @@
+C:\Acadêmico\PUC\PL\JogosEmRedes\Programação\Cliente-Servidor_1\Cliente\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Acadêmico\PUC\PL\JogosEmRedes\Programação\Cliente-Servidor_1\Cliente\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Acadêmico\PUC\PL\JogosEmRedes\Programação\Cliente-Servidor_1\Cliente\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Acadêmico\PUC\PL\JogosEmRedes\Programação\Cliente-Servidor_1\Cliente\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Acadêmico\PUC\PL\JogosEmRedes\Programação\Cliente-Servidor_1\Cliente\Cliente\Cliente\obj\Debug\Cliente.pdb
+C:\Acadêmico\PUC\PL\JogosEmRedes\Programação\Cliente-Servidor_1\Cliente\Cliente\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\ferre\Documents\puc\redes\puc-redes-tp2\Cliente-Servidor_Básico\Cliente\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\ferre\Documents\puc\redes\puc-redes-tp2\Cliente-Servidor_Básico\Cliente\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\ferre\Documents\puc\redes\puc-redes-tp2\Cliente-Servidor_Básico\Cliente\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\ferre\Documents\puc\redes\puc-redes-tp2\Cliente-Servidor_Básico\Cliente\Cliente\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+C:\Users\ferre\Documents\puc\redes\puc-redes-tp2\Cliente-Servidor_Básico\Cliente\Cliente\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\ferre\Documents\puc\redes\puc-redes-tp2\Cliente-Servidor_Básico\Cliente\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Users\ferre\Documents\puc\redes\puc-redes-tp2\Cliente-Servidor_Básico\Cliente\Cliente\Cliente\obj\Debug\Cliente.pdb
